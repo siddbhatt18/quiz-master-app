@@ -252,8 +252,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@siddbhatt](https://github.com/siddbhatt18/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/siddharth-bhattacharya-8b9710247/)
+- GitHub: [@siddbhatt18](https://github.com/siddbhatt18/)
+- LinkedIn: [Siddharth Bhattacharya](https://www.linkedin.com/in/siddharth-bhattacharya-8b9710247/)
 
 ---
 
